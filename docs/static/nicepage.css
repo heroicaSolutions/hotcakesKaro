@@ -31296,7 +31296,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-btn-1 {
   border-style: none;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 700;
   margin: 453px 159px 0 auto;
   padding: 0;
@@ -31310,7 +31310,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-btn-2 {
   border-style: none;
   font-weight: 700;
-  font-size: 1.125rem;
+  font-size: 1rem;
   letter-spacing: 1px;
   margin: -30px auto 0 334px;
   padding: 0;
@@ -31318,7 +31318,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-btn-3 {
   border-style: none;
-  font-size: 1.125rem;
+  font-size: 1rem;
   margin: -34px auto 0 64px;
   padding: 0;
 }
@@ -31328,10 +31328,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
-  text-transform: uppercase;
-  letter-spacing: normal;
-  font-weight: 700;
-  font-family: "Roboto Condensed", sans-serif;
   margin: 64px 35px 60px 51px;
 }
 @media (max-width: 1199px) {
@@ -31352,6 +31348,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
+    text-transform: none;
+    letter-spacing: normal;
+    font-weight: normal;
+    font-family: Roboto, sans-serif;
     width: auto;
     margin-top: 45px;
     margin-right: 86px;
@@ -31404,7 +31404,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-btn-1 {
-    font-size: 1rem;
     margin-top: 67px;
     margin-left: 0;
   }
@@ -31420,8 +31419,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    text-transform: none;
-    font-weight: normal;
     font-family: "Open Sans", sans-serif;
     margin: 14px 40px 21px 0;
   }
