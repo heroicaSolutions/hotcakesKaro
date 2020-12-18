@@ -31178,7 +31178,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 24px 0 0 auto;
+  margin: 32px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -31191,12 +31191,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  margin: -51px auto 0 17px;
+  margin: -55px auto 0 17px;
 }
 
 .u-header .u-logo-image-1 {
-  max-width: 82px;
-  max-height: 82px;
+  max-width: 74px;
+  max-height: 74px;
 }
 
 .u-header .u-text-1 {
@@ -31204,7 +31204,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: normal;
   background-image: none;
   font-size: 1.875rem;
-  margin: -14px 241px 9px 360px;
+  margin: 29px 274px 0 327px;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
@@ -31248,7 +31248,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-right: auto;
-    margin-left: 150px;
+    margin-bottom: 60px;
+    margin-left: 117px;
   }
 }
 @media (max-width: 767px) {
@@ -31257,13 +31258,13 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: auto;
+    margin-right: 0;
+    margin-left: auto;
   }
 
   .u-header .u-text-1 {
     margin-right: 0;
-    margin-left: 1px;
-    width: auto;
+    margin-left: auto;
   }
 }
 @media (max-width: 575px) {
@@ -31277,8 +31278,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-left: 15px;
-    width: 32px;
-    height: 32px;
   }
 
   .u-header .u-logo-image-1 {
@@ -31288,8 +31287,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     font-family: Roboto, sans-serif;
-    width: auto;
-    margin-left: 0;
+    margin-bottom: 0;
   }
 }
 .u-footer .u-sheet-1 {
@@ -31376,7 +31374,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    width: auto;
     margin: 26px 43px 45px;
   }
 }
@@ -31398,18 +31395,17 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    width: auto;
     margin: 37px 136px 48px -50px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 357px;
+    min-height: 289px;
   }
 
   .u-footer .u-btn-1 {
     font-size: 1rem;
-    margin-top: 135px;
+    margin-top: 67px;
     margin-left: 0;
   }
 
